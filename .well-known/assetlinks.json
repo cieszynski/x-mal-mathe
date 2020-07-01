@@ -1,0 +1,5 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target" : { "namespace": "android_app", "package_name": "de.cieszynski.xmm.dreisatz",
+                 "sha256_cert_fingerprints": ["1B:9D:81:C2:F5:0D:1B:B7:77:92:8D:96:A2:04:7C:85:DB:FD:89:10:16:A7:67:0B:79:85:02:F3:70:DF:CB:DE"] }
+  }]
