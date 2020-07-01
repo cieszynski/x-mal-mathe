@@ -1,5 +1,5 @@
 {
-    "name": "X-Mal-Mathe Dreisatz",
+    "name": "Dreisatz X-Mal-Mathe",
     "short_name": "Dreisatz",
     "description": "description",
     "icons": [
@@ -36,6 +36,7 @@
     ],
     "start_url": "/dreisatz/app.html",
     "display": "fullscreen",
+    "orientation": "portrait",
     "theme_color": "#ffffff",
     "background_color": "#ffffff"
 }
